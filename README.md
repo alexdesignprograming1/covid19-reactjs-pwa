@@ -12,10 +12,13 @@ Bibliotecas e tecnologias utilizadas:
 -  Material UI;
 
 
-    const headers = {
-      method: 'get',
-      mode: 'cors',
-      cache: 'default'
-    }
+
+```JavaScript
+const headers = {
+    method: 'get',
+    mode: 'cors',
+    cache: 'default'
+ }
+ ```
 
 ![Dashboard](https://i.imgur.com/UFaF1Btr.png "Dashboard")
